@@ -13,6 +13,7 @@ namespace ConsoleApp1
         Console.WriteLine("Hello, world!");
         Console.WriteLine("Version Changed!");
         Console.WriteLine("Develop branch Changes!");
+        Console.WriteLine("hot fix changes!");
         Console.ReadLine();
     }
     }
